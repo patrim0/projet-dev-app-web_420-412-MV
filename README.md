@@ -1,1 +1,2 @@
-# projet-dev-app-web_420-412-MV
+# 420-412-MV
+Page GitHub du projet de developpement d'application web `420-412-MV`.
